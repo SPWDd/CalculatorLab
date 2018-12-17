@@ -1,0 +1,11 @@
+C:\Users\User\Source\Repos\CalculatorLab\CPE200Lab1\CPE200Lab1\bin\Debug\CPE200Lab1.exe.config
+C:\Users\User\Source\Repos\CalculatorLab\CPE200Lab1\CPE200Lab1\bin\Debug\CPE200Lab1.exe
+C:\Users\User\Source\Repos\CalculatorLab\CPE200Lab1\CPE200Lab1\bin\Debug\CPE200Lab1.pdb
+C:\Users\User\Source\Repos\CalculatorLab\CPE200Lab1\CPE200Lab1\obj\Debug\CPE200Lab1.ExtendForm.resources
+C:\Users\User\Source\Repos\CalculatorLab\CPE200Lab1\CPE200Lab1\obj\Debug\CPE200Lab1.MainForm.resources
+C:\Users\User\Source\Repos\CalculatorLab\CPE200Lab1\CPE200Lab1\obj\Debug\CPE200Lab1.Properties.Resources.resources
+C:\Users\User\Source\Repos\CalculatorLab\CPE200Lab1\CPE200Lab1\obj\Debug\CPE200Lab1.csproj.GenerateResource.cache
+C:\Users\User\Source\Repos\CalculatorLab\CPE200Lab1\CPE200Lab1\obj\Debug\CPE200Lab1.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\CalculatorLab\CPE200Lab1\CPE200Lab1\obj\Debug\CPE200Lab1.exe
+C:\Users\User\Source\Repos\CalculatorLab\CPE200Lab1\CPE200Lab1\obj\Debug\CPE200Lab1.pdb
+C:\Users\User\source\repos\CalculatorLab\CPE200Lab1\CPE200Lab1\obj\Debug\CPE200Lab1.csprojAssemblyReference.cache
